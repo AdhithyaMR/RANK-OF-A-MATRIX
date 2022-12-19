@@ -20,7 +20,7 @@ B=np.linalg.matrix_rank(A)
 print(B)
 ```
 ## Output:
-![](/rank%20of%20the%20matrix.png)
+![](/rank%20of%20the%20matrix%201.png)
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
